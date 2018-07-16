@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/swit23/palindrome.js/issues"
   },
-  "homepage": "https://github.com/swit23/palindrome.js#readme"
+  "homepage": "https://github.com/swit23/palindrome.js#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.1"
+  }
 }
